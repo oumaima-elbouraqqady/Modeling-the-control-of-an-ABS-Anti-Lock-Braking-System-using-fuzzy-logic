@@ -1,0 +1,8 @@
+Matlab Command line
+
+>> fuzzyLogicDesigner
+>> Rr=0.352;
+>> m=493;
+>> I=1.13;
+>> g=9.81;
+>> TB=1500;
